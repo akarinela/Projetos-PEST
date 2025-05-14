@@ -17,24 +17,43 @@ As atividades estão organizadas por temas:
 ## 📁 Organização do Repositório
 
 /Projetos-PEST
+
 ├── listas/
+
 │ ├── lista1.py
+
 │ ├── lista2.py
+
 │ └── ...
+
 ├── repeticao/
+
 │ ├── for/
+
 |    └── lista/
+
 |    ├── q1.py
+
 │ ├── while/
+
 |    └── lista/
+
 |    ├── q1.py
+
 │ └── ...
+
 ├── strings/
+
 │ ├── manipulacao_strings.py
+
 │ └── ...
+
 ├── funcoes/
+
 │ ├── funcoes_basicas.py
+
 │ └── ...
+
 └── README.md
 
 Cada diretório contém os arquivos `.py` com os códigos resolvidos.
